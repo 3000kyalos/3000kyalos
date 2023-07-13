@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Kyalo
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Intro to: Emacs, Vim and Git/Github
+- 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me bikaloryan@gmail.com
 
