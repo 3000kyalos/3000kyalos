@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brian Kyalo
+- 👋 Hi, I’m Brian, with a y in Kyalo
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on ..
