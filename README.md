@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian, with a y in Kyalo
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C Programming
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking for an Internship
 - 📫 How to reach me bikaloryan@gmail.com
 
 <!---
